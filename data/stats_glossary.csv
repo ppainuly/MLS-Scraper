@@ -1,0 +1,21 @@
+,ID,Term
+0, GP,Games Played
+1,GS,Games Started
+2,G,Goals
+3,MIN,Minutes Played
+4,A,Assists
+5,SHT,Shots
+6,SOG,Shots on Goal
+7,FC,Fouls Committed
+8,FS,Fouls Suffered
+9,Y,Yellow Cards
+10,R,Red Cards
+11,GF,Goals For
+12,GA,Goals Against
+13,SO,Shutouts
+14,SV,Saves
+15,CK,Corner Kicks
+16,PKA,Penalty Kick Attempts
+17,PKG,Penalty Kick Goals
+18,PKS,Penalty Kick Saves
+19,OFF,Offsides
